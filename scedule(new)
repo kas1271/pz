@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!--<html lang="en" dir="ltr">
+-->
+<style>
+  body{
+    background-color: #E83A14;
+    font-family: Times New Roman;
+    font-size: 20px;
+  }
+
+  .middle {
+    width:45%;
+    margin: auto;
+    background: white;
+  }
+
+  section {
+    width: 100%;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  table, td, th {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  tr:nth-child(odd) {
+    background-color: PeachPuff
+  }
+
+</style>
+  <!--<head>
+    <meta charset="utf-8">
+    <title>Weekly Schedule</title>
+  </head>
+  <body>
+    <div class="middle">
+  		<ul>
+  			<li><a href="index.html">Main Page</a></li>
+  			<li><a href="schedule.html">Schedule</a></li>
+  			<li><a href="links.html">External Links</a></li>
+  		</ul>
+  		<h1>Weekly Scedule</h1>
+  		<p>This is my schedule</p>
+  		<table style="width:100%">
+  			<tr>
+  				<th>Day</th>
+  				<th>What</th>
+  				<th>Where</th>
+  			</tr>
+  			<tr>
+  				<td>Sunday</td>
+  				<td>Usually Soccer</td>
+  				<td>Soccer field</td>
+  			</tr>
+  			<tr>
+  				<td>Monday</td>
+  				<td>Swimming</td>
+  				<td>Long Center</td>
+  			</tr>
+  			<tr>
+  				<td>Tuesday</td>
+  				<td>Swimming</td>
+  				<td>Long Center</td>
+  			</tr>
+  			<tr>
+  				<td>Wednsday</td>
+  				<td>Tennis</td>
+  				<td>Marshall Park,Saftey Harbor</td>
+  			</tr>
+  			<tr>
+  				<td>Thursday</td>
+  				<td>Coding Club</td>
+  				<td>School</td>
+  			</tr>
+  			<tr>
+  				<td>Friday</td>
+  				<td>Swimming</td>
+  				<td>Long Center</td>
+  			</tr>
+  			<tr>
+  				<td>Saturday</td>
+  				<td>Relax</td>
+  				<td>Home</td>
+  			</tr>
+  		</table>
+  	</div>
+  </body>
+
+  <footer>
+  	<br>
+  	<br>
+  	<br>
+  	<h6>Made by Paul Zamojski</h6>-->
+  </footer>
+
+</html>
