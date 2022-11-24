@@ -1,0 +1,41 @@
+body{
+  background-color: #EAF6F6;
+  font-family: Times New Roman;
+  font-size: 20px;
+}
+
+.middle {
+  width:45%;
+  margin: auto;
+  background: white;
+}
+
+section {
+  width: 100%;
+}
+
+section img{
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.banner {
+  width: 100%;
+}
+
+hr {
+  background-color: silver;
+  border-style:  none;
+  height: 2px;
+}
+
+h1 {
+  color: #3C4048;
+}
+
+h3 {
+  color: #3C4048;
+}
